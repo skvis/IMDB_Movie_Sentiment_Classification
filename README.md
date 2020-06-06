@@ -1,0 +1,2 @@
+# IMDB_Movie_Sentiment_Classification
+Using Bidirectional LSTM
