@@ -1,0 +1,14 @@
+
+DATA_PATH = '../input/'
+MODEL_PATH = '../models/'
+
+VOCAB_SIZE = 10000
+OOV_TOKEN = "<00V>"
+EMBEDDING_DIM = 16
+MAX_LENGTH = 120
+TRUNC_TYPE = 'post'
+PAD_TYPE = 'pre'
+
+BATCH_SIZE = 32
+LEARNING_RATE = 1e-3
+NUM_EPOCHS = 3
